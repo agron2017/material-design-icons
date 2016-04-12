@@ -25,7 +25,7 @@ Add to your html page in the `head` area
 <link rel="stylesheet" href="css/material-icons.css">
 ```
 
-#### Where are two ways to use:
+#### There are two ways to use:
 
 - Ligature, this one is awesome but have some troubles
 ```html
